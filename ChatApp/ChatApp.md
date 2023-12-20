@@ -12,6 +12,10 @@ pip install -r requirements.txt
 
 You should set the python path to the root directory of the repository so that the modules are found properly.
 
+> [!TIP]
+> Before running `python ChatApp/app.py`, you need to:
+> `export PYTHONPATH="/Users/.../llama-2-onnx`
+
 You should then be able to run the example like this from the root of the repository:
 
 ```bash

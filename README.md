@@ -26,7 +26,7 @@ cd Llama-2-Onnx
 git submodule init <chosen_submodule> 
 git submodule update
 ```
-You can repeate the init command with a different submodule name to initialize multiple submodules. Be careful, the contained files are very large! (7B Float16 models are about 10GB)
+You can repeat the init command with a different submodule name to initialize multiple submodules. Be careful, the contained files are very large! (7B Float16 models are about 10GB)
 
 # **What is Llama 2?**
 Llama 2 is a collection of pretrained and fine-tuned generative text models. To learn more about Llama 2, review the [Llama 2 model card](https://github.com/microsoft/Llama-2-Onnx/blob/main/MODEL-CARD-META-LLAMA-2.md).

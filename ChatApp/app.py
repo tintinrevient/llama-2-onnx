@@ -298,4 +298,4 @@ with gr.Blocks(css=custom_css, theme=small_and_beautiful_theme) as demo:
 
 demo.title = "Llama Chat UI"
 
-demo.queue(concurrency_count=1).launch()
+demo.queue().launch()

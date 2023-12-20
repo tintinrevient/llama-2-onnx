@@ -6,3 +6,7 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+.idea
+venv
+.DS_Store
+__pycache__
